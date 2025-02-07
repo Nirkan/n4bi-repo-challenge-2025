@@ -19,7 +19,7 @@
 
 We invite everybody to contribute to this challenge by providing data sets to be uploaded to a variety of bioimaging repositories. Each participant should know the data well (=good annotations) and submit the same data set to at least two different databases listed [here](https://fairsharing.org/search?q=imaging&isRecommended=true&page=1).
 
-The aims of this challenge are: **(i)** what issues do you encounter when uploading data, **(ii)** how can you prepare yourself better for this process, e.g. what metadata / data format are required, **(iii)** have examplary data sets for reuse / reanalyze e.g. via galaxy and for testing new tools and **(iv)** get ready for the "close to real life" repo-challenge 2.0. 
+The aims of this challenge are: **(i)** to learn which issues you encounter when uploading data, **(ii)** how to prepare yourself / your data better for this process, e.g. which metadata / data formats are required, **(iii)** have examplary data sets for reuse / re-analysis e.g. via galaxy and for testing new tools and **(iv)** get ready for the "close to real life" repo-challenge 2.0. 
 
 We ask each participant to provide an overview in the table below which data sets and repos will be used. In addition a questionnaire will be provided (under construction, link will follow) to share the expierence. A short summary about this challenge is also available on zenodo:(link will follow). 
 
