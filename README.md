@@ -37,7 +37,7 @@ We ask each participant to provide an overview in the table below which data set
 
 | Submitter     | Repos planned |  Data type | Data steward | 
 | ------------- | ------------- | ------------- |------------- |
-|  Philipp  | BIA, IDR, GEO, HubMAP   |multimodal spatial data||
+|  Philipp  | BIA, IDR, GEO, HubMAP   |multi-modal spatial data||
 |  Torsten  | BIA, IDR, OpenNeuro   | multi-modal neuro data |
 |    |    |    |
 |    |    |    |
@@ -49,6 +49,7 @@ We ask each participant to provide an overview in the table below which data set
 
 + [Multi-modal Human Brain MRI+EEG+Physio Dataset](https://openneuro.org/datasets/ds005795/versions/1.0.0)
 + [Multi-modal Rat Brain MRI+LightSheet Dataset](https://git.nfdi4plants.org/torsten.stoeter/rat-mri-ls)
++ [Multi-modal spatial data](https://www.ebi.ac.uk/biostudies/BioImages/studies/S-BIAD1093)
 
 Eventually, the data uploaded for the challenge can be browsed and searched at
 [https://nfdi4bioimage.github.io/n4bi-repo-challenge-2025/](https://nfdi4bioimage.github.io/n4bi-repo-challenge-2025/).
