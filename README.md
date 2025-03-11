@@ -39,7 +39,7 @@ We ask each participant to provide an overview in the table below which data set
 | ------------- | ------------- | ------------- |------------- |
 |  Philipp  | BIA, IDR, GEO, HubMAP   |multi-modal spatial data||
 |  Torsten  | BIA, IDR, OpenNeuro   | multi-modal neuro data |
-|    |    |    |
+|  Conni    | BIA, IDR (if appropriate), TBD    | FLIM and summed intensity data    | (me)
 |    |    |    |
 |    |    |    |
 |    |    |    |
